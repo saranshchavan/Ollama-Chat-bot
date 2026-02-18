@@ -12,7 +12,7 @@ langchain-community
 #we are usuing community  for extra integration maintain by this library
 #for example: ollama connectors, documents loader, huggingFace embaddings, etc
 
-lanhchain-core
+langhain-core
 #core building blocks of langchain
 #for example: run ables , output parsers, prompts templates,etc
 
@@ -29,3 +29,9 @@ Langchain --> AI logic
 langchain-community --> Extra integration for langchain
 langchain-core --> Core building blocks for langchain (internal engine)
 Ollama --> local LLM Runner
+
+
+numpy
+flask
+
+
